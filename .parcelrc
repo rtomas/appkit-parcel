@@ -1,0 +1,4 @@
+{
+  "extends": ["@parcel/config-default"],
+  "resolvers": ["./parcel-resolvers/reown-resolver", "..."]
+}
